@@ -11,7 +11,7 @@ Sistema para gerenciar e acompanhar notas de desempenho de atletas.
 
 ## Instalação
 ```bash
-git clone <seu-repositorio>
+git clone https://github.com/jekarllos/notas-atletas
 cd notas-atletas
 npm install
 ```
